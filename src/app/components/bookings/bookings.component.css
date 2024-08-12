@@ -1,0 +1,9 @@
+.space{
+    height: 20px;
+    background-color: rgb(251, 206, 177);
+}
+.color{
+    width: 100%;
+    height:800px;
+    background-color:rgb(255, 191, 0);
+}
